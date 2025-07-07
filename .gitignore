@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test and coverage
+.coverage
+htmlcov/
+.tox/
+
+# Redis dump
+*.rdb
+
+# Misc
+*.log 
