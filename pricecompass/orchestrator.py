@@ -7,7 +7,7 @@ def filter_by_gemini(query, results):
     return [r for r, v in zip(results, verdicts) if v]
 
 async def fetch_prices(country: str, query: str):
-    # Tier-A – SerpAPI Google Shopping
+    # Tier-A – SerpAPI Google Shopping 
     results = await serpapi.search(country, query)
     # Validate with Gemini
     results = filter_by_gemini(query, results)

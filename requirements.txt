@@ -1,8 +1,17 @@
-fastapi==0.111.*
-uvicorn[standard]==0.29.*
+# ───── Web stack ───────────────────────────────
+fastapi==0.111.*            # 0.111.1 at time of writing
+uvicorn[standard]==0.29.*   # includes h11, websockets, etc.
 httpx[http2]==0.27.*
+
+# ───── Config & parsing ────────────────────────
 python-dotenv==1.0.*
-pydantic==2.7.*
+pydantic==2.6.*             # 2.6.x pulls pydantic-core wheels for Py≤3.13
+
+# ───── ML helpers ──────────────────────────────
 sentence-transformers==2.6.*
+
+# ───── UI layer (optional) ─────────────────────
 streamlit==1.35.*
+
+# ───── Gemini client ───────────────────────────
 google-generativeai==0.4.1
