@@ -1,12 +1,9 @@
 fastapi==0.111.*
 uvicorn[standard]==0.29.*
-celery==5.4.*
-redis==5.0.*
 httpx[http2]==0.27.*
-beautifulsoup4==4.12.*
-google-generativeai==0.4.*
-sentence-transformers==2.6.*
-numpy==1.26.*
-fake-useragent==1.5.*
 python-dotenv==1.0.*
-PyYAML
+pydantic==2.7.*
+sentence-transformers==2.6.*
+protobuf==3.20.3
+python-dotenv
+streamlit==1.35.*

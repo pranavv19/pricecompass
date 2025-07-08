@@ -1,12 +1,13 @@
-from fastapi import FastAPI, HTTPException
-from pricecompass.models import PriceReq, PriceResp
+from fastapi import FastAPI
+from pydantic import BaseModel
 from pricecompass.orchestrator import fetch_prices
 
-app = FastAPI(title="PriceCompass")
+class Req(BaseModel):
+    country: str
+    query: str
 
-@app.post("/prices", response_model=list[PriceResp])
-async def prices(body: PriceReq):
-    try:
-        return await fetch_prices(body.country.upper(), body.query)
-    except ValueError as e:
-        raise HTTPException(400, str(e))
+app = FastAPI(title="2-hour Price API")
+
+@app.post("/prices")
+async def prices(body: Req):
+    return await fetch_prices(body.country.upper(), body.query)
