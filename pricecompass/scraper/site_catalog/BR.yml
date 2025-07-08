@@ -1,0 +1,15 @@
+- {domain: amazon.com.br, search_url: "https://www.amazon.com.br/s?k={q}"}
+- {domain: mercadolivre.com.br, search_url: "https://lista.mercadolivre.com.br/{q}"}
+- {domain: americanas.com.br, search_url: "https://www.americanas.com.br/busca/{q}"}
+- {domain: magazineluiza.com.br, search_url: "https://www.magazineluiza.com.br/busca/{q}/"}
+- {domain: casasbahia.com.br, search_url: "https://www.casasbahia.com.br/busca/{q}"}
+- {domain: pontofrio.com.br, search_url: "https://www.pontofrio.com.br/busca/{q}"}
+- {domain: submarino.com.br, search_url: "https://www.submarino.com.br/busca/{q}"}
+- {domain: extra.com.br, search_url: "https://www.extra.com.br/busca/{q}"}
+- {domain: shoptime.com.br, search_url: "https://www.shoptime.com.br/busca/{q}"}
+- {domain: netshoes.com.br, search_url: "https://www.netshoes.com.br/busca?busca={q}"}
+- {domain: centauro.com.br, search_url: "https://www.centauro.com.br/busca?busca={q}"}
+- {domain: fastshop.com.br, search_url: "https://www.fastshop.com.br/busca/{q}"}
+- {domain: carrefour.com.br, search_url: "https://www.carrefour.com.br/busca/{q}"}
+- {domain: drogasil.com.br, search_url: "https://www.drogasil.com.br/busca/?q={q}"}
+- {domain: ikea.com/br, search_url: "https://www.ikea.com/br/pt/search/?q={q}"} 

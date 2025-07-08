@@ -1,0 +1,15 @@
+- {domain: coupang.com, search_url: "https://www.coupang.com/np/search?component=&q={q}"}
+- {domain: gmarket.co.kr, search_url: "http://browse.gmarket.co.kr/search?keyword={q}"}
+- {domain: 11st.co.kr, search_url: "https://search.11st.co.kr/Search.tmall?kwd={q}"}
+- {domain: auction.co.kr, search_url: "http://browse.auction.co.kr/search?keyword={q}"}
+- {domain: ssg.com, search_url: "https://www.ssg.com/search.ssg?query={q}"}
+- {domain: lotteon.com, search_url: "https://www.lotteon.com/search/search/search.ecn?render=search&platform=pc&q={q}"}
+- {domain: wemakeprice.com, search_url: "https://search.wemakeprice.com/search?search_cate=top&keyword={q}"}
+- {domain: tmon.co.kr, search_url: "http://search.tmon.co.kr/search/?keyword={q}"}
+- {domain: interpark.com, search_url: "http://bsearch.interpark.com/dsearch/book.jsp?sch=all&query={q}"}
+- {domain: yes24.com, search_url: "http://www.yes24.com/Product/Search?domain=ALL&query={q}"}
+- {domain: gsshop.com, search_url: "http://search.gsshop.com/search/search.gs?searchTerm={q}"}
+- {domain: musinsa.com, search_url: "https://search.musinsa.com/search/musinsa/goods?q={q}"}
+- {domain: ikea.com/kr, search_url: "https://www.ikea.com/kr/ko/search/?q={q}"}
+- {domain: oliveyoung.co.kr, search_url: "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query={q}"}
+- {domain: ssfshop.com, search_url: "https://www.ssfshop.com/search.ssf?query={q}"} 

@@ -1,0 +1,15 @@
+- {domain: amazon.it, search_url: "https://www.amazon.it/s?k={q}"}
+- {domain: ebay.it, search_url: "https://www.ebay.it/sch/i.html?_nkw={q}"}
+- {domain: zalando.it, search_url: "https://www.zalando.it/catalog/?q={q}"}
+- {domain: eprice.it, search_url: "https://www.eprice.it/search/?q={q}"}
+- {domain: unieuro.it, search_url: "https://www.unieuro.it/online/search/?q={q}"}
+- {domain: mediaworld.it, search_url: "https://www.mediaworld.it/search/?q={q}"}
+- {domain: trony.it, search_url: "https://www.trony.it/online/search.do?search={q}"}
+- {domain: esselunga.it, search_url: "https://www.esselungaacasa.it/e-commerce/search.do?search={q}"}
+- {domain: cooponline.it, search_url: "https://www.cooponline.it/search/?text={q}"}
+- {domain: ikea.com/it, search_url: "https://www.ikea.com/it/it/search/?q={q}"}
+- {domain: leroymerlin.it, search_url: "https://www.leroymerlin.it/search/?q={q}"}
+- {domain: decathlon.it, search_url: "https://www.decathlon.it/search?Ntt={q}"}
+- {domain: mondadoristore.it, search_url: "https://www.mondadoristore.it/search/?q={q}"}
+- {domain: ovs.it, search_url: "https://www.ovs.it/search/?q={q}"}
+- {domain: privalia.com, search_url: "https://it.privalia.com/search?q={q}"} 

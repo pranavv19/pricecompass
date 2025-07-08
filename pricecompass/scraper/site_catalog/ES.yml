@@ -1,0 +1,15 @@
+- {domain: amazon.es, search_url: "https://www.amazon.es/s?k={q}"}
+- {domain: elcorteingles.es, search_url: "https://www.elcorteingles.es/buscar/?s={q}"}
+- {domain: pccomponentes.com, search_url: "https://www.pccomponentes.com/buscar/?query={q}"}
+- {domain: mediamarkt.es, search_url: "https://www.mediamarkt.es/es/search.html?query={q}"}
+- {domain: carrefour.es, search_url: "https://www.carrefour.es/search/?q={q}"}
+- {domain: fnac.es, search_url: "https://www.fnac.es/SearchResult/ResultList.aspx?SCat=0%211&Search={q}"}
+- {domain: ebay.es, search_url: "https://www.ebay.es/sch/i.html?_nkw={q}"}
+- {domain: ikea.com/es, search_url: "https://www.ikea.com/es/es/search/?q={q}"}
+- {domain: privalia.com, search_url: "https://es.privalia.com/search?q={q}"}
+- {domain: zalando.es, search_url: "https://www.zalando.es/catalog/?q={q}"}
+- {domain: decathlon.es, search_url: "https://www.decathlon.es/es/search?Ntt={q}"}
+- {domain: leroymerlin.es, search_url: "https://www.leroymerlin.es/buscador.html?keyword={q}"}
+- {domain: aliexpress.es, search_url: "https://es.aliexpress.com/wholesale?SearchText={q}"}
+- {domain: kiabi.es, search_url: "https://www.kiabi.es/search?q={q}"}
+- {domain: carritus.com, search_url: "https://www.carritus.com/buscar/?q={q}"} 

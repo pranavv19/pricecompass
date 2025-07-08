@@ -1,0 +1,15 @@
+- {domain: amazon.ca, search_url: "https://www.amazon.ca/s?k={q}"}
+- {domain: walmart.ca, search_url: "https://www.walmart.ca/search?q={q}"}
+- {domain: bestbuy.ca, search_url: "https://www.bestbuy.ca/en-ca/search?search={q}"}
+- {domain: canadian tire.ca, search_url: "https://www.canadiantire.ca/en/search-results.html?searchByTerm={q}"}
+- {domain: costco.ca, search_url: "https://www.costco.ca/CatalogSearch?dept=All&keyword={q}"}
+- {domain: homedepot.ca, search_url: "https://www.homedepot.ca/search?q={q}"}
+- {domain: lowes.ca, search_url: "https://www.lowes.ca/search?searchTerm={q}"}
+- {domain: wayfair.ca, search_url: "https://www.wayfair.ca/keyword.php?keyword={q}"}
+- {domain: indigo.ca, search_url: "https://www.chapters.indigo.ca/en-ca/home/search/?keywords={q}"}
+- {domain: ebay.ca, search_url: "https://www.ebay.ca/sch/i.html?_nkw={q}"}
+- {domain: ikea.com/ca, search_url: "https://www.ikea.com/ca/en/search/?q={q}"}
+- {domain: thebay.com, search_url: "https://www.thebay.com/search?q={q}"}
+- {domain: staples.ca, search_url: "https://www.staples.ca/search?query={q}"}
+- {domain: sportchek.ca, search_url: "https://www.sportchek.ca/search.html?q={q}"}
+- {domain: sears.ca, search_url: "https://www.sears.ca/en/search/?q={q}"} 

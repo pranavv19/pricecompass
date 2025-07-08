@@ -1,0 +1,14 @@
+- {domain: amazon.co.uk,      search_url: "https://www.amazon.co.uk/s?k={q}"}
+- {domain: argos.co.uk,       search_url: "https://www.argos.co.uk/search/{q}"}
+- {domain: tesco.com,         search_url: "https://www.tesco.com/groceries/en-GB/search?query={q}"}
+- {domain: sainsburys.co.uk,  search_url: "https://www.sainsburys.co.uk/gol-ui/SearchResults/{q}"}
+- {domain: currys.co.uk,      search_url: "https://www.currys.co.uk/search?q={q}"}
+- {domain: johnlewis.com,     search_url: "https://www.johnlewis.com/search?q={q}"}
+- {domain: asos.com,          search_url: "https://www.asos.com/search/?q={q}"}
+- {domain: very.co.uk,        search_url: "https://www.very.co.uk/search?q={q}"}
+- {domain: boots.com,         search_url: "https://www.boots.com/sitesearch?searchTerm={q}"}
+- {domain: screwfix.com,      search_url: "https://www.screwfix.com/search?search={q}"}
+- {domain: wayfair.co.uk,     search_url: "https://www.wayfair.co.uk/keyword.php?keyword={q}"}
+- {domain: ebay.co.uk,        search_url: "https://www.ebay.co.uk/sch/i.html?_nkw={q}"}
+- {domain: ao.com,           search_url: "https://ao.com/search/{q}"}
+- {domain: ikea.com/gb,      search_url: "https://www.ikea.com/gb/en/search/?q={q}"} 

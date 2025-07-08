@@ -9,3 +9,4 @@ sentence-transformers==2.6.*
 numpy==1.26.*
 fake-useragent==1.5.*
 python-dotenv==1.0.*
+PyYAML

@@ -1,0 +1,13 @@
+- {domain: amazon.fr,        search_url: "https://www.amazon.fr/s?k={q}"}
+- {domain: cdiscount.com,    search_url: "https://www.cdiscount.com/search/10/{q}.html"}
+- {domain: fnac.com,         search_url: "https://www.fnac.com/SearchResult/ResultList.aspx?SCat=0%211&Search={q}"}
+- {domain: darty.com,        search_url: "https://www.darty.com/nav/recherche/{q}"}
+- {domain: boulanger.com,    search_url: "https://www.boulanger.com/resultats?tr={q}"}
+- {domain: carrefour.fr,     search_url: "https://www.carrefour.fr/s?q={q}"}
+- {domain: leclercdrive.fr,  search_url: "https://www.leclercdrive.fr/catalogue/search.aspx?Nom={q}"}
+- {domain: auchan.fr,        search_url: "https://www.auchan.fr/recherche?q={q}"}
+- {domain: rueducommerce.fr, search_url: "https://www.rueducommerce.fr/recherche/{q}"}
+- {domain: ldlc.com,         search_url: "https://www.ldlc.com/fr-be/search/?k={q}"}
+- {domain: zalando.fr,       search_url: "https://www.zalando.fr/catalog/?q={q}"}
+- {domain: ikea.com/fr,      search_url: "https://www.ikea.com/fr/fr/search/?q={q}"}
+- {domain: decathlon.fr,     search_url: "https://www.decathlon.fr/search?Ntt={q}"} 

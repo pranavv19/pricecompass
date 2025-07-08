@@ -1,0 +1,15 @@
+- {domain: amazon.com.mx, search_url: "https://www.amazon.com.mx/s?k={q}"}
+- {domain: mercadolibre.com.mx, search_url: "https://listado.mercadolibre.com.mx/{q}"}
+- {domain: walmart.com.mx, search_url: "https://www.walmart.com.mx/productos?Ntt={q}"}
+- {domain: liverpool.com.mx, search_url: "https://www.liverpool.com.mx/tienda?s={q}"}
+- {domain: sears.com.mx, search_url: "https://www.sears.com.mx/resultados/{q}"}
+- {domain: suburbia.com.mx, search_url: "https://www.suburbia.com.mx/suburbia/busqueda/?q={q}"}
+- {domain: coppel.com, search_url: "https://www.coppel.com/busca?Ntt={q}"}
+- {domain: elektra.com.mx, search_url: "https://www.elektra.com.mx/buscar?Ntt={q}"}
+- {domain: sams.com.mx, search_url: "https://www.sams.com.mx/buscar?Ntt={q}"}
+- {domain: soriana.com, search_url: "https://www.soriana.com/buscar?Ntt={q}"}
+- {domain: superama.com.mx, search_url: "https://www.superama.com.mx/buscar?Ntt={q}"}
+- {domain: linio.com.mx, search_url: "https://www.linio.com.mx/search?scroll=&q={q}"}
+- {domain: ikea.com/mx, search_url: "https://www.ikea.com/mx/es/search/?q={q}"}
+- {domain: officeDepot.com.mx, search_url: "https://www.officedepot.com.mx/officedepot/en/buscar/?text={q}"}
+- {domain: sanborns.com.mx, search_url: "https://www.sanborns.com.mx/resultados/?q={q}"} 

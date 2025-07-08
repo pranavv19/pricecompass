@@ -1,0 +1,15 @@
+- {domain: amazon.co.jp,       search_url: "https://www.amazon.co.jp/s?k={q}"}
+- {domain: rakuten.co.jp,      search_url: "https://search.rakuten.co.jp/search/mall/{q}/"}
+- {domain: yahoo.co.jp,        search_url: "https://shopping.yahoo.co.jp/search?p={q}"}
+- {domain: kakaku.com,         search_url: "https://kakaku.com/search_results/{q}/"}
+- {domain: yodobashi.com,      search_url: "https://www.yodobashi.com/?word={q}"}
+- {domain: biccamera.com,      search_url: "https://www.biccamera.com/bc/category/?q={q}"}
+- {domain: zozo.jp,            search_url: "https://zozo.jp/search/?p_keyv={q}"}
+- {domain: nissen.co.jp,       search_url: "https://www.nissen.co.jp/itemsearch?q={q}"}
+- {domain: uniqlo.com,         search_url: "https://www.uniqlo.com/jp/ja/search?qtext={q}"}
+- {domain: muji.com,           search_url: "https://www.muji.com/jp/ja/store/search?q={q}"}
+- {domain: ikea.com/jp,        search_url: "https://www.ikea.com/jp/ja/search/?q={q}"}
+- {domain: mercari.com/jp,     search_url: "https://jp.mercari.com/search?keyword={q}"}
+- {domain: zozoused.jp,        search_url: "https://zozo.jp/zozoused/search/?p_keyv={q}"}
+- {domain: wowma.jp,           search_url: "https://wowma.jp/search/{q}"}
+- {domain: lohaco.jp,          search_url: "https://lohaco.yahoo.co.jp/search/?p={q}"} 
